@@ -1,0 +1,17 @@
+com.e4ekta.benchmark-benchmark-macro-junit4-1.1.0-beta05-0 /Users/ekta/.gradle/caches/transforms-3/00456f55187635599b5716739718a5c8/transformed/benchmark-macro-junit4-1.1.0-beta05/res
+com.e4ekta.benchmark-benchmark-macro-1.1.0-beta05-1 /Users/ekta/.gradle/caches/transforms-3/135f2f778256f2ada291982413d77c33/transformed/benchmark-macro-1.1.0-beta05/res
+com.e4ekta.benchmark-annotation-experimental-1.1.0-2 /Users/ekta/.gradle/caches/transforms-3/312040685b569ad66be04b971b56bad6/transformed/annotation-experimental-1.1.0/res
+com.e4ekta.benchmark-tracing-1.1.0-beta01-3 /Users/ekta/.gradle/caches/transforms-3/438d8f16cc0d6143e23d12a13cee6d13/transformed/tracing-1.1.0-beta01/res
+com.e4ekta.benchmark-benchmark-common-1.1.0-beta05-4 /Users/ekta/.gradle/caches/transforms-3/499c53d3d6df164ce4675b458154f6a4/transformed/benchmark-common-1.1.0-beta05/res
+com.e4ekta.benchmark-tracing-ktx-1.1.0-beta01-5 /Users/ekta/.gradle/caches/transforms-3/6493fdc370d59ba6c22bd81a59921f2f/transformed/tracing-ktx-1.1.0-beta01/res
+com.e4ekta.benchmark-profileinstaller-1.0.3-6 /Users/ekta/.gradle/caches/transforms-3/6d0345dd9a91fda7fcb61cda48fd47d1/transformed/profileinstaller-1.0.3/res
+com.e4ekta.benchmark-startup-runtime-1.0.0-7 /Users/ekta/.gradle/caches/transforms-3/71d0634308573e6a3e41d8f9e96d1ce3/transformed/startup-runtime-1.0.0/res
+com.e4ekta.benchmark-core-1.5.0-8 /Users/ekta/.gradle/caches/transforms-3/9b4e032c84850669db5f836d16c93a54/transformed/core-1.5.0/res
+com.e4ekta.benchmark-pngs-9 /Users/ekta/Documents/GitHub/BurningDesire/AndroidRepo/Architecture/Android Performance/BaselineProfileMacrobenchmark/benchmark/build/generated/res/pngs/benchmark
+com.e4ekta.benchmark-resValues-10 /Users/ekta/Documents/GitHub/BurningDesire/AndroidRepo/Architecture/Android Performance/BaselineProfileMacrobenchmark/benchmark/build/generated/res/resValues/benchmark
+com.e4ekta.benchmark-rs-11 /Users/ekta/Documents/GitHub/BurningDesire/AndroidRepo/Architecture/Android Performance/BaselineProfileMacrobenchmark/benchmark/build/generated/res/rs/benchmark
+com.e4ekta.benchmark-mergeBenchmarkResources-12 /Users/ekta/Documents/GitHub/BurningDesire/AndroidRepo/Architecture/Android Performance/BaselineProfileMacrobenchmark/benchmark/build/intermediates/incremental/benchmark/mergeBenchmarkResources/merged.dir
+com.e4ekta.benchmark-mergeBenchmarkResources-13 /Users/ekta/Documents/GitHub/BurningDesire/AndroidRepo/Architecture/Android Performance/BaselineProfileMacrobenchmark/benchmark/build/intermediates/incremental/benchmark/mergeBenchmarkResources/stripped.dir
+com.e4ekta.benchmark-merged_res-14 /Users/ekta/Documents/GitHub/BurningDesire/AndroidRepo/Architecture/Android Performance/BaselineProfileMacrobenchmark/benchmark/build/intermediates/merged_res/benchmark
+com.e4ekta.benchmark-benchmark-15 /Users/ekta/Documents/GitHub/BurningDesire/AndroidRepo/Architecture/Android Performance/BaselineProfileMacrobenchmark/benchmark/src/benchmark/res
+com.e4ekta.benchmark-main-16 /Users/ekta/Documents/GitHub/BurningDesire/AndroidRepo/Architecture/Android Performance/BaselineProfileMacrobenchmark/benchmark/src/main/res

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="com.e4ekta.benchmark.ExampleStartupBenchmark" tests="1" failures="0" errors="0" skipped="0" time="84.013" timestamp="2023-04-03T13:51:05" hostname="localhost">
+  <properties>
+    <property name="device" value="moto g(60) - 12" />
+    <property name="flavor" value="" />
+    <property name="project" value=":benchmark" />
+  </properties>
+  <testcase name="scrollAndNavigate" classname="com.e4ekta.benchmark.ExampleStartupBenchmark" time="80.574" />
+</testsuite>
